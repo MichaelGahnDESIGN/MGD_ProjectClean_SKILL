@@ -115,11 +115,31 @@ cd ~/.claude/skills/projectclean && git pull
 cd ~/.codex/skills/projectclean && git pull
 ```
 
-## Verwandte Projekte
+## Verwandte Projekte Von Michael Gahn DESIGN
 
-- [DEV-Skill](https://github.com/MichaelGahnDESIGN/DEV-Skill) – umfassender Projekt-Sync-Workflow mit Deploy, Browser-Smokes und Wissensdokumentation.
-- [AI-PlayTest-Skill](https://github.com/MichaelGahnDESIGN/AI-PlayTest-Skill) – Play-Tests aus Nutzerrollen für Websites, Apps und APIs.
-- [Claude-Codex-MCP](https://github.com/MichaelGahnDESIGN/Claude-Codex-MCP) – lokaler MCP-Server für Aufgaben und Kommunikation zwischen Claude und Codex.
+ProjectClean gehört zu einer kleinen Werkzeugfamilie für KI-gestützte
+Projektarbeit.
+
+- [AI-Basic-Projektordner](https://github.com/MichaelGahnDESIGN/AI-Basic-Projektordner)  
+  Eine saubere Projektvorlage mit Regeln, Dokumentation, Agentenstruktur und
+  Sicherheitsgrenzen. Sinnvoll als Basis für neue Projekte.
+
+- [AI Project Updater Skill](https://github.com/MichaelGahnDESIGN/AI-Project-Updater-Skill)  
+  Ein geführter Assistent für lokale Staging-Umgebungen, Docker-Planung,
+  Update-Vorbereitung und sichere Staging-zu-Live-Abläufe. Das Repository ist
+  während der Entwicklung zunächst privat.
+
+- [DEV-Skill](https://github.com/MichaelGahnDESIGN/DEV-Skill)  
+  Ein projektneutraler Skill für Projekt-Sync, Tests, GitHub-Abgleich,
+  Deploy-Vorbereitung, Backups und Abschlussberichte.
+
+- [AI-PlayTest-Skill](https://github.com/MichaelGahnDESIGN/AI-PlayTest-Skill)  
+  Ein Skill für Play-Tests aus Sicht echter Nutzerrollen, lokal, auf Staging
+  oder vorsichtig auf Live.
+
+- [Claude-Codex-MCP](https://github.com/MichaelGahnDESIGN/Claude-Codex-MCP)  
+  Ein lokales MCP-System für Aufgaben, Chat und Übergaben zwischen Claude,
+  Codex und weiteren KI-Agenten.
 
 ## Lizenz
 
